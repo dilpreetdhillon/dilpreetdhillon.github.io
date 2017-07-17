@@ -1,3 +1,7 @@
+.body {
+    padding: 0; 
+}
+
 .container-fluid {
     padding:0; 
 }
@@ -6,4 +10,21 @@ a.navbar-brand {
     cursor:pointer; 
 }
 
+.hero-section {
+    padding-top: 60px; 
+    background-image: url("../images/gray.jpeg");
+    height:100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+#statement {
+    margin-top: 10%; 
+    text-align: center;
+    color:aliceblue; ; 
+}
+
+#skills-box {
+    padding:50px; 
+}
