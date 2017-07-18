@@ -6,6 +6,10 @@
     padding:0; 
 }
 
+a {
+    cursor: pointer;
+}
+
 a.navbar-brand {
     cursor:pointer; 
 }
@@ -27,4 +31,20 @@ a.navbar-brand {
 
 #skills-box {
     padding:50px; 
+}
+
+.projects-row {
+    padding: 50px; 
+}
+
+.footer {
+    background-color:#e6dede; 
+}
+
+.social-media {
+    padding:5%; 
+}
+
+.fa {
+    padding: 2%;
 }
